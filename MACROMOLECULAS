@@ -1,0 +1,2579 @@
+[
+  {
+    "question": "¿Qué tipo de macromoléculas biológicas están compuestas por una cadena de aminoácidos unidos por enlaces peptídicos?",
+    "options": [
+      {
+        "text": "Proteínas",
+        "correct": true
+      },
+      {
+        "text": "Carbohidratos",
+        "correct": false
+      },
+      {
+        "text": "Ácidos nucleicos, los cuales están formados por nucleótidos que se unen entre sí para formar cadenas largas que codifican la información genética en las células.",
+        "correct": false
+      },
+      {
+        "text": "Lípidos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son las 'máquinas' moleculares de la célula.",
+    "explanation": "Las proteínas son polímeros de aminoácidos unidos por enlaces peptídicos. Desempeñan funciones vitales como el transporte, la catálisis y la estructura."
+  },
+  {
+    "question": "Los ácidos nucleicos, ADN y ARN, se distinguen principalmente por su azúcar constituyente. ¿Cuál es el azúcar que se encuentra en el ADN y cuál en el ARN, respectivamente?",
+    "options": [
+      {
+        "text": "Desoxirribosa en ADN y ribosa en ARN",
+        "correct": true
+      },
+      {
+        "text": "Ribosa en ADN y desoxirribosa en ARN",
+        "correct": false
+      },
+      {
+        "text": "Glucosa en ADN y fructosa en ARN",
+        "correct": false
+      },
+      {
+        "text": "Fructosa en ADN y glucosa en ARN",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "El prefijo 'desoxi-' da una pista sobre su estructura.",
+    "explanation": "El ADN (ácido desoxirribonucleico) contiene desoxirribosa, mientras que el ARN (ácido ribonucleico) contiene ribosa. La diferencia es un grupo hidroxilo (-OH) en el carbono 2' del azúcar."
+  },
+  {
+    "question": "Son ejemplos de lípidos que forman la estructura principal de las membranas celulares:",
+    "options": [
+      {
+        "text": "Fosfolípidos",
+        "correct": true
+      },
+      {
+        "text": "Triglicéridos",
+        "correct": false
+      },
+      {
+        "text": "Glucógeno",
+        "correct": false
+      },
+      {
+        "text": "Almidón",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Moléculas con una 'cabeza' polar y 'colas' no polares.",
+    "explanation": "Los fosfolípidos son los componentes principales de las membranas celulares, formando la bicapa lipídica gracias a su naturaleza anfipática."
+  },
+  {
+    "question": "¿Cuál es la función principal de los carbohidratos en la mayoría de los organismos?",
+    "options": [
+      {
+        "text": "Fuente de energía a corto plazo y almacenamiento de energía",
+        "correct": true
+      },
+      {
+        "text": "Almacenamiento de información genética",
+        "correct": false
+      },
+      {
+        "text": "Catálisis de reacciones químicas",
+        "correct": false
+      },
+      {
+        "text": "Componente principal de las membranas celulares, son esenciales para la fluidez y selectividad de las mismas.",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en el 'combustible' celular.",
+    "explanation": "Los carbohidratos son la principal fuente de energía rápida y también se almacenan en forma de glucógeno (en animales) o almidón (en plantas) para uso futuro."
+  },
+  {
+    "question": "Los monómeros de las proteínas son los aminoácidos. ¿Cuál es el nombre del enlace covalente que une a los aminoácidos para formar una cadena polipeptídica?",
+    "options": [
+      {
+        "text": "Enlace peptídico",
+        "correct": true
+      },
+      {
+        "text": "Enlace glucosídico",
+        "correct": false
+      },
+      {
+        "text": "Enlace éster",
+        "correct": false
+      },
+      {
+        "text": "Enlace fosfodiéster",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Se forma entre el grupo carboxilo de un aminoácido y el grupo amino de otro.",
+    "explanation": "El enlace peptídico es el que se forma entre dos aminoácidos, conectando el grupo carboxilo (-COOH) de uno con el grupo amino (-NH₂) del siguiente."
+  },
+  {
+    "question": "La información genética en los seres vivos está codificada en la secuencia de nucleótidos del ADN. ¿Cuáles son las cuatro bases nitrogenadas que se encuentran en el ADN?",
+    "options": [
+      {
+        "text": "Adenina, Timina, Guanina y Citosina",
+        "correct": true
+      },
+      {
+        "text": "Adenina, Uracilo, Guanina y Citosina",
+        "correct": false
+      },
+      {
+        "text": "Adenina, Timina, Guanina y Ribosa",
+        "correct": false
+      },
+      {
+        "text": "Glucosa, Fructosa, Galactosa y Sacarosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "A-T y C-G.",
+    "explanation": "Las bases nitrogenadas del ADN son Adenina (A), Timina (T), Guanina (G) y Citosina (C), que se aparean de forma complementaria."
+  },
+  {
+    "question": "En el contexto de la nutrición y la energía, ¿cuál es el polisacárido de reserva energética en los animales, almacenado principalmente en el hígado y los músculos?",
+    "options": [
+      {
+        "text": "Glucógeno",
+        "correct": true
+      },
+      {
+        "text": "Almidón",
+        "correct": false
+      },
+      {
+        "text": "Celulosa",
+        "correct": false
+      },
+      {
+        "text": "Quitina",
+        "correct": false
+      },
+      "No puedo identificar la respuesta 😥"
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la forma animal del 'almidón'.",
+    "explanation": "El glucógeno es el polisacárido de reserva en animales, mientras que el almidón cumple la misma función en plantas."
+  },
+  {
+    "question": "Son componentes de un nucleótido:",
+    "options": [
+      {
+        "text": "Grupo fosfato, azúcar de 5 carbonos y base nitrogenada",
+        "correct": true
+      },
+      {
+        "text": "Aminoácido, grupo carboxilo y grupo amino",
+        "correct": false
+      },
+      {
+        "text": "Glicerol y ácidos grasos",
+        "correct": false
+      },
+      {
+        "text": "Monosacárido, disacárido y polisacárido",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son las unidades básicas de los ácidos nucleicos.",
+    "explanation": "Un nucleótido está formado por tres componentes: un grupo fosfato, una pentosa (azúcar de 5 carbonos) y una base nitrogenada."
+  },
+  {
+    "question": "Un lípido, como el triglicérido, se forma por la unión de una molécula de glicerol con tres moléculas de ácidos grasos. ¿Cómo se llama el enlace que los une?",
+    "options": [
+      {
+        "text": "Enlace éster",
+        "correct": true
+      },
+      {
+        "text": "Enlace glucosídico",
+        "correct": false
+      },
+      {
+        "text": "Enlace peptídico",
+        "correct": false
+      },
+      {
+        "text": "Enlace fosfodiéster",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Se forma por la reacción de un ácido y un alcohol.",
+    "explanation": "El enlace éster se forma entre el grupo carboxilo del ácido graso y el grupo hidroxilo del glicerol, liberando una molécula de agua."
+  },
+  {
+    "question": "Relaciona cada macromolécula con su respectivo monómero:",
+    "options": [
+      {
+        "text": "A-III; B-IV; C-I; D-II",
+        "correct": true
+      },
+      {
+        "text": "A-I; B-II; C-III; D-IV",
+        "correct": false
+      },
+      {
+        "text": "A-II; B-I; C-IV; D-III",
+        "correct": false
+      },
+      {
+        "text": "A-IV; B-III; C-II; D-I",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "La relación es: Proteínas son de aminoácidos, Carbohidratos de monosacáridos, Ácidos nucleicos de nucleótidos y los Lípidos de ácidos grasos y glicerol.",
+    "explanation": "Proteínas se forman de aminoácidos; carbohidratos de monosacáridos; ácidos nucleicos de nucleótidos; y lípidos de ácidos grasos y glicerol."
+  },
+  {
+    "question": "La función principal del colesterol en las células animales es...",
+    "options": [
+      {
+        "text": "Mantener la fluidez de las membranas celulares",
+        "correct": true
+      },
+      {
+        "text": "Almacenar energía a largo plazo",
+        "correct": false
+      },
+      {
+        "text": "Catalizar reacciones metabólicas",
+        "correct": false
+      },
+      {
+        "text": "Proporcionar soporte estructural para las células vegetales",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es un lípido esteroide esencial para la membrana celular.",
+    "explanation": "El colesterol se intercala entre los fosfolípidos de la bicapa lipídica, ayudando a mantener la fluidez de la membrana a diferentes temperaturas."
+  },
+  {
+    "question": "¿Cuál es la función principal de la enzima catalasa, que es una proteína, en el cuerpo humano?",
+    "options": [
+      {
+        "text": "Descomponer el peróxido de hidrógeno (H₂O₂) en agua y oxígeno, previniendo el daño celular.",
+        "correct": true
+      },
+      {
+        "text": "Almacenar energía en forma de glucógeno en el hígado y en los músculos para liberarla cuando el cuerpo la necesita urgentemente.",
+        "correct": false
+      },
+      {
+        "text": "Regular el transporte de iones a través de la membrana celular y los impulsos nerviosos en el sistema neurológico.",
+        "correct": false
+      },
+      {
+        "text": "Servir como una hormona que regula el nivel de glucosa en la sangre.",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es una de las enzimas más rápidas conocidas.",
+    "explanation": "La catalasa cataliza la descomposición del peróxido de hidrógeno, un subproducto tóxico del metabolismo, en agua y oxígeno, protegiendo así a las células."
+  },
+  {
+    "question": "La celulosa y el almidón son polisacáridos. ¿Cuál es la principal diferencia estructural entre ellos que determina su función biológica?",
+    "options": [
+      {
+        "text": "El tipo de enlace glucosídico que une a las unidades de glucosa",
+        "correct": true
+      },
+      {
+        "text": "El monómero constituyente, ya que el almidón es de glucosa y la celulosa de fructosa",
+        "correct": false
+      },
+      {
+        "text": "La cantidad de átomos de carbono en el anillo de glucosa",
+        "correct": false
+      },
+      {
+        "text": "El tipo de grupo funcional en el extremo de la cadena",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Uno es digerible por humanos, el otro no.",
+    "explanation": "El almidón tiene enlaces α-glucosídicos, lo que lo hace fácilmente digerible, mientras que la celulosa tiene enlaces β-glucosídicos, que la mayoría de los animales no pueden digerir."
+  },
+  {
+    "question": "La doble hélice del ADN está estabilizada por...",
+    "options": [
+      {
+        "text": "Puentes de hidrógeno entre las bases nitrogenadas",
+        "correct": true
+      },
+      {
+        "text": "Enlaces peptídicos entre los aminoácidos",
+        "correct": false
+      },
+      {
+        "text": "Fuerzas de van der Waals entre las pentosas",
+        "correct": false
+      },
+      {
+        "text": "Enlaces covalentes entre las cadenas de azúcar y fosfato",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son enlaces débiles que permiten la separación de las hebras.",
+    "explanation": "Los puentes de hidrógeno se forman entre las bases nitrogenadas complementarias (A-T con dos puentes y G-C con tres), manteniendo las dos hebras del ADN unidas."
+  },
+  {
+    "question": "El término lípido se usa para un grupo muy diverso de compuestos. ¿Cuál es la característica común que define a todos los lípidos?",
+    "options": [
+      {
+        "text": "Son insolubles en agua y solubles en solventes no polares",
+        "correct": true
+      },
+      {
+        "text": "Contienen siempre un grupo fosfato y una base nitrogenada",
+        "correct": false
+      },
+      {
+        "text": "Son polímeros de ácidos grasos",
+        "correct": false
+      },
+      {
+        "text": "Están compuestos por monosacáridos unidos por enlaces glucosídicos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en el aceite y el agua.",
+    "explanation": "La propiedad definitoria de los lípidos es su hidrofobicidad, es decir, son insolubles en agua, un solvente polar."
+  },
+  {
+    "question": "El ____________ es un carbohidrato con estructura ramificada, que se almacena en el hígado y los músculos como una reserva de energía de rápida movilización en los animales. El ____________ es el análogo en las plantas, sirviendo como una forma de almacenar energía en las semillas y tubérculos.",
+    "options": [
+      {
+        "text": "glucógeno, almidón",
+        "correct": true
+      },
+      {
+        "text": "almidón, glucógeno",
+        "correct": false
+      },
+      {
+        "text": "glucógeno, celulosa",
+        "correct": false
+      },
+      {
+        "text": "almidón, quitina",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Uno es animal, el otro es vegetal.",
+    "explanation": "El glucógeno es el polisacárido de reserva en animales y el almidón es el de las plantas."
+  },
+  {
+    "question": "La estructura primaria de una proteína se refiere a...",
+    "options": [
+      {
+        "text": "La secuencia lineal de aminoácidos en la cadena polipeptídica",
+        "correct": true
+      },
+      {
+        "text": "El plegamiento local de la cadena en hélices alfa o láminas beta",
+        "correct": false
+      },
+      {
+        "text": "La disposición tridimensional de la cadena completa, incluyendo sus dominios y la interacción de los aminoácidos en regiones distantes entre sí",
+        "correct": false
+      },
+      {
+        "text": "La asociación de varias cadenas polipeptídicas para formar una proteína funcional",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la base de toda la estructura proteica.",
+    "explanation": "La estructura primaria es la secuencia única y específica de aminoácidos que componen una proteína, determinada por la información genética."
+  },
+  {
+    "question": "Relaciona correctamente los monosacáridos con su clasificación:",
+    "options": [
+      {
+        "text": "A-III; B-I; C-II",
+        "correct": true
+      },
+      {
+        "text": "A-I; B-II; C-III",
+        "correct": false
+      },
+      {
+        "text": "A-II; B-III; C-I",
+        "correct": false
+      },
+      {
+        "text": "A-III; B-II; C-I",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en el número de átomos de carbono de cada molécula.",
+    "explanation": "La fructosa y la glucosa son hexosas (6 carbonos); la ribosa es una pentosa (5 carbonos); y la dihidroxiacetona es una triosa (3 carbonos)."
+  },
+  {
+    "question": "¿Cuál es la función principal del ARN mensajero (ARNm)?",
+    "options": [
+      {
+        "text": "Llevar la información genética del ADN en el núcleo al citoplasma para la síntesis de proteínas",
+        "correct": true
+      },
+      {
+        "text": "Actuar como una enzima en las reacciones químicas que tienen lugar en el núcleo de las células",
+        "correct": false
+      },
+      {
+        "text": "Formar parte de los ribosomas, las estructuras que llevan a cabo la síntesis de proteínas",
+        "correct": false
+      },
+      {
+        "text": "Almacenar la información genética a largo plazo",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es un intermediario entre el ADN y las proteínas.",
+    "explanation": "El ARNm copia la información de un gen en el ADN y la transporta a los ribosomas, donde se utiliza para construir una proteína."
+  },
+  {
+    "question": "Los lípidos que tienen al menos un doble enlace entre los átomos de carbono en sus cadenas de ácidos grasos se conocen como...",
+    "options": [
+      {
+        "text": "Ácidos grasos insaturados",
+        "correct": true
+      },
+      {
+        "text": "Ácidos grasos saturados",
+        "correct": false
+      },
+      {
+        "text": "Esteroides",
+        "correct": false
+      },
+      {
+        "text": "Terpenos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son líquidos a temperatura ambiente, como el aceite de oliva.",
+    "explanation": "Los dobles enlaces causan 'codos' en las cadenas de carbono, impidiendo que se empaqueten de manera compacta, por lo que son líquidos a temperatura ambiente."
+  },
+  {
+    "question": "El ____________ es un polisacárido estructural que compone la pared celular de las plantas, proporcionando rigidez y soporte, mientras que la ____________ es un polisacárido estructural que forma el exoesqueleto de los artrópodos y la pared celular de los hongos. La primera es la biomolécula orgánica más abundante en la naturaleza.",
+    "options": [
+      {
+        "text": "celulosa, quitina",
+        "correct": true
+      },
+      {
+        "text": "quitina, celulosa",
+        "correct": false
+      },
+      {
+        "text": "almidón, glucógeno",
+        "correct": false
+      },
+      {
+        "text": "pectina, lignina",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "La celulosa está en las plantas y la quitina en los insectos y hongos.",
+    "explanation": "La celulosa es el componente principal de las paredes celulares de las plantas, y la quitina es un polisacárido estructural en hongos y exoesqueletos de artrópodos."
+  },
+  {
+    "question": "La desnaturalización de una proteína se refiere a...",
+    "options": [
+      {
+        "text": "La pérdida de su estructura tridimensional y, por lo tanto, de su función biológica",
+        "correct": true
+      },
+      {
+        "text": "La adición de más aminoácidos a su cadena polipeptídica",
+        "correct": false
+      },
+      {
+        "text": "La hidrólisis de los enlaces peptídicos",
+        "correct": false
+      },
+      {
+        "text": "El proceso de plegamiento correcto de la proteína en su forma funcional",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es lo que ocurre cuando se cocina un huevo.",
+    "explanation": "La desnaturalización es el cambio estructural de las proteínas debido a factores como el calor o el pH, que interrumpe su plegamiento y causa la pérdida de su función."
+  },
+  {
+    "question": "Los nucleótidos se unen para formar cadenas de ADN o ARN a través de un enlace fosfodiéster. Este enlace se forma entre...",
+    "options": [
+      {
+        "text": "El grupo fosfato de un nucleótido y el azúcar del siguiente",
+        "correct": true
+      },
+      {
+        "text": "La base nitrogenada de un nucleótido y el azúcar del siguiente",
+        "correct": false
+      },
+      {
+        "text": "El grupo fosfato y la base nitrogenada del mismo nucleótido",
+        "correct": false
+      },
+      {
+        "text": "El azúcar y la base nitrogenada del mismo nucleótido, uniendo los componentes principales de un nucleótido para su estabilización",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en el 'esqueleto' de la cadena de ácido nucleico.",
+    "explanation": "El enlace fosfodiéster conecta el grupo fosfato de un nucleótido al grupo hidroxilo 3' del azúcar del siguiente, formando el esqueleto de azúcar-fosfato de la cadena."
+  },
+  {
+    "question": "La fructosa y la glucosa son monosacáridos, mientras que la lactosa y la sacarosa son disacáridos. ¿Qué tipo de enlace los une en un disacárido?",
+    "options": [
+      {
+        "text": "Enlace glucosídico",
+        "correct": true
+      },
+      {
+        "text": "Enlace peptídico",
+        "correct": false
+      },
+      {
+        "text": "Enlace éster",
+        "correct": false
+      },
+      {
+        "text": "Enlace fosfodiéster",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Se forma entre dos azúcares.",
+    "explanation": "El enlace glucosídico es el enlace covalente que une a dos monosacáridos para formar un disacárido o un polisacárido."
+  },
+  {
+    "question": "Las proteínas pueden tener diferentes niveles de estructura. ¿Cuál es el nivel que describe la interacción y asociación de varias cadenas polipeptídicas para formar una única proteína funcional?",
+    "options": [
+      {
+        "text": "Estructura cuaternaria",
+        "correct": true
+      },
+      {
+        "text": "Estructura terciaria",
+        "correct": false
+      },
+      {
+        "text": "Estructura secundaria",
+        "correct": false
+      },
+      {
+        "text": "Estructura primaria",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en la hemoglobina.",
+    "explanation": "La estructura cuaternaria es la disposición espacial de las subunidades proteicas (cadenas polipeptídicas) en una proteína con múltiples subunidades."
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones es la que define mejor la composición elemental de las proteínas?",
+    "options": [
+      {
+        "text": "Carbono, Hidrógeno, Oxígeno, Nitrógeno y a veces Azufre",
+        "correct": true
+      },
+      {
+        "text": "Carbono, Hidrógeno y Oxígeno",
+        "correct": false
+      },
+      {
+        "text": "Carbono, Hidrógeno, Oxígeno, Nitrógeno y Fósforo",
+        "correct": false
+      },
+      {
+        "text": "Carbono, Hidrógeno, Nitrógeno y Magnesio",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la única macromolécula que siempre contiene nitrógeno.",
+    "explanation": "Las proteínas están compuestas principalmente por C, H, O y N. El azufre (S) está presente en algunos aminoácidos como la metionina y la cisteína."
+  },
+  {
+    "question": "Los lípidos saturados se diferencian de los insaturados porque los primeros tienen una cadena de hidrocarburos con...",
+    "options": [
+      {
+        "text": "Solo enlaces simples entre los átomos de carbono",
+        "correct": true
+      },
+      {
+        "text": "Uno o más enlaces dobles entre los átomos de carbono",
+        "correct": false
+      },
+      {
+        "text": "Un grupo fosfato en un extremo de la molécula",
+        "correct": false
+      },
+      {
+        "text": "Una estructura de anillo de cuatro carbonos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Saturado significa 'lleno' de hidrógenos.",
+    "explanation": "Los lípidos saturados no tienen dobles enlaces, por lo que su cadena de carbono está 'saturada' con el máximo número de átomos de hidrógeno posible."
+  },
+  {
+    "question": "¿Cuál de los siguientes no es un ejemplo de proteína con función estructural?",
+    "options": [
+      {
+        "text": "Hemoglobina",
+        "correct": true
+      },
+      {
+        "text": "Colágeno",
+        "correct": false
+      },
+      {
+        "text": "Queratina",
+        "correct": false
+      },
+      {
+        "text": "Actina",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Esta proteína se encarga de transportar oxígeno.",
+    "explanation": "La hemoglobina es una proteína de transporte de oxígeno en la sangre, mientras que el colágeno, la queratina y la actina tienen funciones estructurales."
+  },
+  {
+    "question": "La diferencia entre el ADN y el ARN radica en que el ARN tiene la base nitrogenada ____________ en lugar de la ____________ que se encuentra en el ADN. El ARN también tiene el azúcar ribosa en lugar de la desoxirribosa.",
+    "options": [
+      {
+        "text": "Uracilo, Timina",
+        "correct": true
+      },
+      {
+        "text": "Timina, Uracilo",
+        "correct": false
+      },
+      {
+        "text": "Adenina, Guanina",
+        "correct": false
+      },
+      {
+        "text": "Citosina, Adenina",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Uracilo es una 'U', Timina una 'T'.",
+    "explanation": "El Uracilo (U) reemplaza a la Timina (T) en el ARN. Esta es una de las diferencias clave, junto con el tipo de azúcar."
+  },
+  {
+    "question": "Los fosfolípidos son moléculas anfipáticas. ¿Qué significa esto?",
+    "options": [
+      {
+        "text": "Que tienen una parte polar (hidrofílica) y una parte no polar (hidrofóbica)",
+        "correct": true
+      },
+      {
+        "text": "Que son polímeros de monosacáridos",
+        "correct": false
+      },
+      {
+        "text": "Que están compuestos exclusivamente por Carbono e Hidrógeno",
+        "correct": false
+      },
+      {
+        "text": "Que pueden catalizar reacciones químicas en las células como las enzimas",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Amphi- significa 'ambos lados'.",
+    "explanation": "La 'cabeza' de fosfato de un fosfolípido es hidrofílica (atraída por el agua), mientras que las 'colas' de ácidos grasos son hidrofóbicas (repelidas por el agua), lo que les permite formar bicapas en ambientes acuosos."
+  },
+  {
+    "question": "La lactosa, un disacárido, está compuesta por la unión de dos monosacáridos. ¿Cuáles son estos dos monosacáridos?",
+    "options": [
+      {
+        "text": "Glucosa y Galactosa",
+        "correct": true
+      },
+      {
+        "text": "Glucosa y Fructosa",
+        "correct": false
+      },
+      {
+        "text": "Fructosa y Galactosa",
+        "correct": false
+      },
+      {
+        "text": "Sacarosa y Maltosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es el azúcar de la leche.",
+    "explanation": "La lactosa se forma por la condensación de una molécula de glucosa y una de galactosa."
+  },
+  {
+    "question": "Relaciona cada tipo de proteína con su función principal:",
+    "options": [
+      {
+        "text": "A-III; B-I; C-II",
+        "correct": true
+      },
+      {
+        "text": "A-I; B-II; C-III",
+        "correct": false
+      },
+      {
+        "text": "A-III; B-II; C-I",
+        "correct": false
+      },
+      {
+        "text": "A-II; B-III; C-I",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Las enzimas son catalizadores biológicos, los anticuerpos defienden y la hemoglobina transporta.",
+    "explanation": "La hemoglobina transporta oxígeno; los anticuerpos (inmunoglobulinas) defienden al organismo; las enzimas catalizan reacciones químicas."
+  },
+  {
+    "question": "¿Cuál es la macromolécula que no es un polímero de unidades repetidas?",
+    "options": [
+      {
+        "text": "Lípidos",
+        "correct": true
+      },
+      {
+        "text": "Proteínas",
+        "correct": false
+      },
+      {
+        "text": "Ácidos nucleicos",
+        "correct": false
+      },
+      {
+        "text": "Carbohidratos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son un grupo heterogéneo con una característica común: la hidrofobicidad.",
+    "explanation": "Mientras que proteínas, ácidos nucleicos y carbohidratos son polímeros de monómeros, los lípidos son un grupo heterogéneo de moléculas, algunos se forman por la unión de ácidos grasos y glicerol, pero no se consideran polímeros en el mismo sentido estricto."
+  },
+  {
+    "question": "La hidrólisis de un polisacárido, como el almidón, resulta en la producción de...",
+    "options": [
+      {
+        "text": "Monosacáridos",
+        "correct": true
+      },
+      {
+        "text": "Aminoácidos",
+        "correct": false
+      },
+      {
+        "text": "Ácidos grasos y glicerol",
+        "correct": false
+      },
+      {
+        "text": "Nucleótidos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la reacción inversa a la síntesis por deshidratación.",
+    "explanation": "La hidrólisis rompe los enlaces glucosídicos de un polisacárido, liberando sus monómeros, que son los monosacáridos (glucosa)."
+  },
+  {
+    "question": "La alfa-hélice y la beta-lámina plegada son ejemplos de la estructura ____________ de una proteína.",
+    "options": [
+      {
+        "text": "secundaria",
+        "correct": true
+      },
+      {
+        "text": "primaria",
+        "correct": false
+      },
+      {
+        "text": "terciaria",
+        "correct": false
+      },
+      {
+        "text": "cuaternaria",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son patrones de plegamiento locales formados por puentes de hidrógeno.",
+    "explanation": "La estructura secundaria se refiere a los patrones de plegamiento locales que se forman en la cadena polipeptídica, estabilizados por puentes de hidrógeno."
+  },
+  {
+    "question": "¿Cuál de los siguientes es un monosacárido conocido como el 'azúcar de la fruta'?",
+    "options": [
+      {
+        "text": "Fructosa",
+        "correct": true
+      },
+      {
+        "text": "Glucosa",
+        "correct": false
+      },
+      {
+        "text": "Galactosa",
+        "correct": false
+      },
+      {
+        "text": "Sacarosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es un isómero de la glucosa.",
+    "explanation": "La fructosa es un monosacárido simple que se encuentra en muchas frutas y es un componente de la sacarosa."
+  },
+  {
+    "question": "Un polímero de nucleótidos que forma una única hebra y contiene uracilo se refiere a...",
+    "options": [
+      {
+        "text": "ARN",
+        "correct": true
+      },
+      {
+        "text": "ADN",
+        "correct": false
+      },
+      {
+        "text": "Proteína",
+        "correct": false
+      },
+      {
+        "text": "Lípido",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Participa en la síntesis de proteínas.",
+    "explanation": "El ARN (ácido ribonucleico) es típicamente de cadena simple, contiene el azúcar ribosa y la base uracilo en lugar de timina."
+  },
+  {
+    "question": "Los lípidos que tienen una estructura de anillo de cuatro carbonos son conocidos como...",
+    "options": [
+      {
+        "text": "Esteroides",
+        "correct": true
+      },
+      {
+        "text": "Triglicéridos",
+        "correct": false
+      },
+      {
+        "text": "Ceras",
+        "correct": false
+      },
+      {
+        "text": "Fosfolípidos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "El colesterol es un ejemplo.",
+    "explanation": "Los esteroides, como el colesterol, la testosterona y el estrógeno, se caracterizan por su esqueleto de carbono de cuatro anillos fusionados."
+  },
+  {
+    "question": "El ____________ es el monómero de los carbohidratos, el ____________ el de las proteínas, y el ____________ el de los ácidos nucleicos. Los lípidos no se consideran polímeros en el mismo sentido que los otros tres.",
+    "options": [
+      {
+        "text": "monosacárido, aminoácido, nucleótido",
+        "correct": true
+      },
+      {
+        "text": "aminoácido, nucleótido, monosacárido",
+        "correct": false
+      },
+      {
+        "text": "nucleótido, monosacárido, aminoácido",
+        "correct": false
+      },
+      {
+        "text": "ácido graso, glucosa, desoxirribosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son las unidades básicas de cada macromolécula.",
+    "explanation": "Los monosacáridos son las unidades de los carbohidratos, los aminoácidos de las proteínas y los nucleótidos de los ácidos nucleicos."
+  },
+  {
+    "question": "La queratina es una proteína fibrosa que se encuentra en el cabello, uñas y cuernos. ¿Cuál es su principal función?",
+    "options": [
+      {
+        "text": "Estructural y protectora",
+        "correct": true
+      },
+      {
+        "text": "Catalítica",
+        "correct": false
+      },
+      {
+        "text": "Transporte de oxígeno",
+        "correct": false
+      },
+      {
+        "text": "Almacenamiento de energía",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la proteína que forma la capa externa de la piel.",
+    "explanation": "La queratina es la proteína principal de la capa más externa de la epidermis, proporcionando una barrera de protección y resistencia."
+  },
+  {
+    "question": "¿Qué tipo de macromolécula se utiliza principalmente para el almacenamiento de energía a largo plazo, el aislamiento térmico y la protección de órganos?",
+    "options": [
+      {
+        "text": "Lípidos",
+        "correct": true
+      },
+      {
+        "text": "Carbohidratos",
+        "correct": false
+      },
+      {
+        "text": "Proteínas",
+        "correct": false
+      },
+      {
+        "text": "Ácidos nucleicos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en las grasas y los aceites.",
+    "explanation": "Los lípidos, especialmente los triglicéridos, son muy eficientes para almacenar energía y también sirven como aislantes térmicos y amortiguadores mecánicos."
+  },
+  {
+    "question": "La sacarosa es un disacárido. ¿Cuál de las siguientes afirmaciones es correcta sobre su composición?",
+    "options": [
+      {
+        "text": "Se forma por la unión de una molécula de glucosa y una de fructosa",
+        "correct": true
+      },
+      {
+        "text": "Se forma por la unión de dos moléculas de glucosa",
+        "correct": false
+      },
+      {
+        "text": "Se forma por la unión de una molécula de glucosa y una de galactosa",
+        "correct": false
+      },
+      {
+        "text": "Se forma por la unión de dos moléculas de fructosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es el azúcar de mesa común.",
+    "explanation": "La sacarosa es un disacárido compuesto por una molécula de glucosa y una de fructosa, unidas por un enlace glucosídico."
+  },
+  {
+    "question": "¿Qué tipo de enlace covalente une a las bases nitrogenadas con el azúcar en un nucleótido?",
+    "options": [
+      {
+        "text": "Enlace N-glucosídico",
+        "correct": true
+      },
+      {
+        "text": "Enlace fosfodiéster",
+        "correct": false
+      },
+      {
+        "text": "Enlace peptídico",
+        "correct": false
+      },
+      {
+        "text": "Enlace éster",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Se forma entre el nitrógeno de la base y el carbono del azúcar.",
+    "explanation": "El enlace N-glucosídico es el enlace covalente que une el nitrógeno de la base nitrogenada con el carbono 1' de la pentosa (ribosa o desoxirribosa)."
+  },
+  {
+    "question": "La estructura terciaria de una proteína está determinada por...",
+    "options": [
+      {
+        "text": "Interacciones entre los grupos R (cadenas laterales) de los aminoácidos",
+        "correct": true
+      },
+      {
+        "text": "La secuencia lineal de aminoácidos",
+        "correct": false
+      },
+      {
+        "text": "El plegamiento local en alfa-hélices y beta-láminas",
+        "correct": false
+      },
+      {
+        "text": "La asociación de múltiples cadenas polipeptídicas",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la forma tridimensional total de una sola cadena polipeptídica.",
+    "explanation": "La estructura terciaria es el plegamiento tridimensional de una sola cadena polipeptídica, determinado por interacciones como puentes de hidrógeno, puentes disulfuro, interacciones hidrofóbicas y puentes salinos entre los grupos R."
+  },
+  {
+    "question": "Son ejemplos de monosacáridos, excepto:",
+    "options": [
+      {
+        "text": "Maltosa",
+        "correct": true
+      },
+      {
+        "text": "Glucosa",
+        "correct": false
+      },
+      {
+        "text": "Fructosa",
+        "correct": false
+      },
+      {
+        "text": "Galactosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es un disacárido.",
+    "explanation": "La maltosa es un disacárido formado por dos unidades de glucosa, mientras que la glucosa, fructosa y galactosa son monosacáridos."
+  },
+  {
+    "question": "¿Cuál es la función principal de los ácidos grasos esenciales como los omega-3 y omega-6?",
+    "options": [
+      {
+        "text": "Son precursores de hormonas y componentes de las membranas celulares",
+        "correct": true
+      },
+      {
+        "text": "Se utilizan para almacenar energía a corto plazo",
+        "correct": false
+      },
+      {
+        "text": "Actúan como catalizadores de reacciones químicas en las células",
+        "correct": false
+      },
+      {
+        "text": "Transportan oxígeno a través del torrente sanguíneo, ya que tienen la función de transportar el oxígeno de los pulmones a los tejidos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "El cuerpo no puede producirlos.",
+    "explanation": "Los ácidos grasos esenciales son precursores de otras moléculas biológicas importantes como las prostaglandinas y son componentes estructurales clave de las membranas."
+  },
+  {
+    "question": "Los anticuerpos, que son proteínas, cumplen una función vital en el sistema inmunológico. ¿Qué tipo de función es esta?",
+    "options": [
+      {
+        "text": "Función de defensa",
+        "correct": true
+      },
+      {
+        "text": "Función de transporte",
+        "correct": false
+      },
+      {
+        "text": "Función enzimática",
+        "correct": false
+      },
+      {
+        "text": "Función hormonal",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Nos protegen de agentes externos.",
+    "explanation": "Los anticuerpos son proteínas del sistema inmune que identifican y neutralizan sustancias extrañas, como bacterias y virus."
+  },
+  {
+    "question": "El ____________ es una macromolécula que no es un polímero de monómeros idénticos o casi idénticos, a diferencia de los carbohidratos, las proteínas y los ácidos nucleicos. Está compuesto por moléculas como el glicerol, los ácidos grasos, el colesterol, y las vitaminas liposolubles.",
+    "options": [
+      {
+        "text": "lípido",
+        "correct": true
+      },
+      {
+        "text": "carbohidrato",
+        "correct": false
+      },
+      {
+        "text": "proteína",
+        "correct": false
+      },
+      {
+        "text": "ácido nucleico",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son hidrofóbicos.",
+    "explanation": "Los lípidos no se clasifican como polímeros verdaderos, ya que están formados por diferentes componentes y no por la repetición de una sola unidad monomérica."
+  },
+  {
+    "question": "¿Cuál es la función principal del colágeno en los vertebrados?",
+    "options": [
+      {
+        "text": "Proporcionar resistencia y soporte estructural a tejidos conectivos como la piel, los tendones y los huesos",
+        "correct": true
+      },
+      {
+        "text": "Catalizar reacciones químicas en las células y en los tejidos",
+        "correct": false
+      },
+      {
+        "text": "Transportar oxígeno desde los pulmones a los tejidos del cuerpo",
+        "correct": false
+      },
+      {
+        "text": "Almacenar la información genética para la replicación y la síntesis de proteínas",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la proteína más abundante en el cuerpo humano.",
+    "explanation": "El colágeno es una proteína fibrosa que forma fibras fuertes y flexibles, proporcionando soporte y estructura a los tejidos."
+  },
+  {
+    "question": "El glucógeno es un polisacárido que se encuentra en los animales. ¿Cuál es su composición y tipo de enlace?",
+    "options": [
+      {
+        "text": "Polímero de glucosa unido por enlaces α-glucosídicos",
+        "correct": true
+      },
+      {
+        "text": "Polímero de fructosa unido por enlaces β-glucosídicos",
+        "correct": false
+      },
+      {
+        "text": "Polímero de aminoácidos unido por enlaces peptídicos",
+        "correct": false
+      },
+      {
+        "text": "Polímero de nucleótidos unido por enlaces fosfodiéster",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la forma animal del almidón.",
+    "explanation": "El glucógeno es un polímero de glucosa con enlaces α-glucosídicos, lo que permite su fácil degradación para liberar glucosa como fuente de energía."
+  },
+  {
+    "question": "La función principal de los ácidos nucleicos es...",
+    "options": [
+      {
+        "text": "Almacenar y transmitir la información genética",
+        "correct": true
+      },
+      {
+        "text": "Almacenar energía a largo plazo",
+        "correct": false
+      },
+      {
+        "text": "Catalizar reacciones metabólicas",
+        "correct": false
+      },
+      {
+        "text": "Proporcionar soporte y estructura a las células",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "ADN y ARN.",
+    "explanation": "El ADN almacena la información hereditaria y el ARN la utiliza para la síntesis de proteínas."
+  },
+  {
+    "question": "Las grasas saturadas son sólidas a temperatura ambiente, mientras que las grasas insaturadas son líquidas. ¿A qué se debe esta diferencia?",
+    "options": [
+      {
+        "text": "La ausencia de dobles enlaces en las cadenas de ácidos grasos saturados permite que se empaqueten de forma compacta",
+        "correct": true
+      },
+      {
+        "text": "Las grasas insaturadas tienen cadenas de ácidos grasos más cortas que las saturadas",
+        "correct": false
+      },
+      {
+        "text": "Las grasas saturadas tienen un grupo fosfato en su estructura, lo que aumenta el punto de fusión",
+        "correct": false
+      },
+      {
+        "text": "La presencia de un grupo esteroide en las grasas saturadas las hace más sólidas",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en el tocino y el aceite de oliva.",
+    "explanation": "La falta de dobles enlaces en las grasas saturadas hace que sus cadenas sean rectas, lo que permite que se apilen densamente, haciéndolas sólidas a temperatura ambiente."
+  },
+  {
+    "question": "La queratina y el colágeno son proteínas estructurales, mientras que la hemoglobina es una proteína de transporte y las enzimas son proteínas catalíticas. ¿Qué nivel de estructura proteica es crucial para la función de estas proteínas?",
+    "options": [
+      {
+        "text": "La estructura terciaria o cuaternaria, que determina la forma tridimensional funcional",
+        "correct": true
+      },
+      {
+        "text": "La estructura primaria, que es la secuencia lineal de aminoácidos",
+        "correct": false
+      },
+      {
+        "text": "La estructura secundaria, que consiste en alfa-hélices y beta-láminas",
+        "correct": false
+      },
+      {
+        "text": "El tipo de enlace que une a los aminoácidos en la cadena, ya que este enlace determina la función biológica de la proteína",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "La forma de la proteína determina su función.",
+    "explanation": "La función biológica de una proteína depende de su forma tridimensional única, que se define por sus estructuras terciaria y, si aplica, cuaternaria."
+  },
+  {
+    "question": "El ____________ es un disacárido que se encuentra en la leche y se forma por la unión de glucosa y galactosa. El ____________ es el azúcar común de mesa, que está compuesto por glucosa y fructosa. La enzima lactasa descompone uno de ellos.",
+    "options": [
+      {
+        "text": "lactosa, sacarosa",
+        "correct": true
+      },
+      {
+        "text": "sacarosa, lactosa",
+        "correct": false
+      },
+      {
+        "text": "maltosa, lactosa",
+        "correct": false
+      },
+      {
+        "text": "almidón, glucógeno",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "La lactosa se asocia a la leche.",
+    "explanation": "La lactosa es el azúcar de la leche (glucosa + galactosa) y la sacarosa es el azúcar de mesa (glucosa + fructosa)."
+  },
+  {
+    "question": "El ADN y el ARN tienen bases nitrogenadas de tipo purina y pirimidina. ¿Cuáles son las bases purínicas?",
+    "options": [
+      {
+        "text": "Adenina y Guanina",
+        "correct": true
+      },
+      {
+        "text": "Citosina y Timina",
+        "correct": false
+      },
+      {
+        "text": "Uracilo y Timina",
+        "correct": false
+      },
+      {
+        "text": "Citosina y Uracilo",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son las bases con dos anillos.",
+    "explanation": "Las purinas (Adenina y Guanina) tienen una estructura de doble anillo, mientras que las pirimidinas (Citosina, Timina y Uracilo) tienen un solo anillo."
+  },
+  {
+    "question": "¿Cuál es la macromolécula que desempeña funciones de catálisis, transporte, defensa, movimiento y soporte estructural en los seres vivos?",
+    "options": [
+      {
+        "text": "Proteínas",
+        "correct": true
+      },
+      {
+        "text": "Carbohidratos",
+        "correct": false
+      },
+      {
+        "text": "Lípidos",
+        "correct": false
+      },
+      {
+        "text": "Ácidos nucleicos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son las moléculas más versátiles en el mundo biológico.",
+    "explanation": "Las proteínas tienen la mayor diversidad de funciones, desde enzimas (catálisis) hasta anticuerpos (defensa) y colágeno (soporte)."
+  },
+  {
+    "question": "Los lípidos, además de ser una fuente de energía, tienen diversas funciones. ¿Cuál de las siguientes no es una función de los lípidos?",
+    "options": [
+      {
+        "text": "Almacenamiento de información genética",
+        "correct": true
+      },
+      {
+        "text": "Formación de hormonas como el estrógeno y la testosterona",
+        "correct": false
+      },
+      {
+        "text": "Constituir la estructura de las membranas celulares",
+        "correct": false
+      },
+      {
+        "text": "Aislamiento térmico y protección de órganos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Esta función es de los ácidos nucleicos.",
+    "explanation": "El almacenamiento de información genética es la función principal de los ácidos nucleicos (ADN y ARN), no de los lípidos."
+  },
+  {
+    "question": "¿Qué monosacárido es el combustible principal para la respiración celular en los organismos?",
+    "options": [
+      {
+        "text": "Glucosa",
+        "correct": true
+      },
+      {
+        "text": "Fructosa",
+        "correct": false
+      },
+      {
+        "text": "Sacarosa",
+        "correct": false
+      },
+      {
+        "text": "Ribosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es el azúcar de la sangre.",
+    "explanation": "La glucosa es el monosacárido más importante, ya que se metaboliza a través de la respiración celular para producir ATP, la principal fuente de energía de la célula."
+  },
+  {
+    "question": "En el contexto de los ácidos nucleicos, ¿qué es un gen?",
+    "options": [
+      {
+        "text": "Un segmento de ADN que codifica para una proteína o una molécula de ARN funcional",
+        "correct": true
+      },
+      {
+        "text": "Un polímero de aminoácidos",
+        "correct": false
+      },
+      {
+        "text": "Un monosacárido que es una fuente de energía",
+        "correct": false
+      },
+      {
+        "text": "Un tipo de lípido que forma parte de la membrana celular",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la unidad básica de la herencia.",
+    "explanation": "Un gen es la unidad fundamental de la herencia, que consiste en un segmento de ADN que contiene las instrucciones para la síntesis de un producto funcional."
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones es la que define mejor los lípidos?",
+    "options": [
+      {
+        "text": "Un grupo diverso de macromoléculas hidrofóbicas que incluye grasas, aceites y esteroides",
+        "correct": true
+      },
+      {
+        "text": "Polímeros de aminoácidos con funciones de catálisis y transporte",
+        "correct": false
+      },
+      {
+        "text": "Polímeros de monosacáridos que sirven como fuente de energía a corto plazo",
+        "correct": false
+      },
+      {
+        "text": "Polímeros de nucleótidos que almacenan la información genética en el núcleo celular",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Su característica común es que no se mezclan con el agua.",
+    "explanation": "Los lípidos son un grupo heterogéneo de moléculas no polares, unificadas por su insolubilidad en agua. Incluyen grasas, fosfolípidos y esteroides."
+  },
+  {
+    "question": "La estructura tridimensional de una proteína funcional se denomina...",
+    "options": [
+      {
+        "text": "Conformación nativa",
+        "correct": true
+      },
+      {
+        "text": "Estructura primaria",
+        "correct": false
+      },
+      {
+        "text": "Estructura secundaria",
+        "correct": false
+      },
+      {
+        "text": "Desnaturalización",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es su forma biológicamente activa.",
+    "explanation": "La conformación nativa es la estructura tridimensional única y biológicamente activa de una proteína. Si pierde esta forma, pierde su función (se desnaturaliza)."
+  },
+  {
+    "question": "Los carbohidratos se pueden clasificar según el número de unidades de azúcar. Relaciona la clasificación con su ejemplo correspondiente:",
+    "options": [
+      {
+        "text": "A-III; B-II; C-I",
+        "correct": true
+      },
+      {
+        "text": "A-I; B-II; C-III",
+        "correct": false
+      },
+      {
+        "text": "A-II; B-III; C-I",
+        "correct": false
+      },
+      {
+        "text": "A-III; B-I; C-II",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Unidad simple, dos unidades, muchas unidades.",
+    "explanation": "La glucosa es un monosacárido; la sacarosa es un disacárido; el glucógeno es un polisacárido."
+  },
+  {
+    "question": "¿Qué tipo de macromolécula se utiliza para el almacenamiento de energía a largo plazo y también como aislamiento térmico en animales?",
+    "options": [
+      {
+        "text": "Lípidos, como los triglicéridos en el tejido adiposo",
+        "correct": true
+      },
+      {
+        "text": "Carbohidratos, en forma de glucógeno en el hígado y los músculos",
+        "correct": false
+      },
+      {
+        "text": "Proteínas, como el colágeno que proporciona estructura a los tejidos y los órganos",
+        "correct": false
+      },
+      {
+        "text": "Ácidos nucleicos, los cuales codifican la información genética para la formación de todas las proteínas",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en el tejido adiposo.",
+    "explanation": "Los lípidos, en forma de grasas, son la reserva de energía más eficiente, proporcionando el doble de energía por gramo que los carbohidratos, y forman una capa aislante debajo de la piel."
+  },
+  {
+    "question": "El ADN y el ARN difieren en la cantidad de hebras que normalmente presentan. ¿Cuál es la estructura común de cada uno?",
+    "options": [
+      {
+        "text": "El ADN tiene una doble hélice, mientras que el ARN tiene una única hebra",
+        "correct": true
+      },
+      {
+        "text": "Ambos tienen una doble hélice, pero con diferentes bases nitrogenadas",
+        "correct": false
+      },
+      {
+        "text": "El ADN tiene una sola hebra y el ARN tiene una doble hélice",
+        "correct": false
+      },
+      {
+        "text": "Ambos tienen una sola hebra, pero con diferentes azúcares y bases",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "El ADN se enrolla en una hélice de dos hebras.",
+    "explanation": "El ADN es típicamente de doble hebra (doble hélice), mientras que el ARN es típicamente de una sola hebra."
+  },
+  {
+    "question": "Un polímero de aminoácidos con una función catalítica es conocido como...",
+    "options": [
+      {
+        "text": "Enzima",
+        "correct": true
+      },
+      {
+        "text": "Carbohidrato",
+        "correct": false
+      },
+      {
+        "text": "Lípido",
+        "correct": false
+      },
+      {
+        "text": "Ácido nucleico",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Aceleran las reacciones químicas.",
+    "explanation": "Las enzimas son proteínas que actúan como catalizadores biológicos, acelerando las reacciones químicas en la célula."
+  },
+  {
+    "question": "Las proteínas se pliegan en estructuras secundarias, como la alfa-hélice y la beta-lámina, que están estabilizadas por...",
+    "options": [
+      {
+        "text": "Puentes de hidrógeno entre el esqueleto de la cadena principal",
+        "correct": true
+      },
+      {
+        "text": "Enlaces disulfuro entre los grupos R",
+        "correct": false
+      },
+      {
+        "text": "Interacciones hidrofóbicas entre los grupos R no polares",
+        "correct": false
+      },
+      {
+        "text": "Puentes salinos entre los grupos R con carga",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Estos enlaces se forman entre los átomos de hidrógeno y oxígeno del esqueleto de la proteína.",
+    "explanation": "Los puentes de hidrógeno se forman entre el oxígeno del grupo carbonilo y el hidrógeno del grupo amino, en la cadena principal, no en las cadenas laterales."
+  },
+  {
+    "question": "El almidón es el polisacárido de reserva en las plantas, mientras que el glucógeno cumple esta función en los animales. ¿Cuál es el monómero de ambos?",
+    "options": [
+      {
+        "text": "Glucosa",
+        "correct": true
+      },
+      {
+        "text": "Fructosa",
+        "correct": false
+      },
+      {
+        "text": "Galactosa",
+        "correct": false
+      },
+      {
+        "text": "Sacarosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es el azúcar más común.",
+    "explanation": "Tanto el almidón como el glucógeno son polímeros de glucosa, pero con diferentes estructuras de ramificación y tipos de enlace glucosídico (α-1,4 y α-1,6)."
+  },
+  {
+    "question": "¿Qué tipo de macromoléculas son las hormonas sexuales, como el estrógeno y la testosterona?",
+    "options": [
+      {
+        "text": "Lípidos esteroides",
+        "correct": true
+      },
+      {
+        "text": "Proteínas globulares",
+        "correct": false
+      },
+      {
+        "text": "Carbohidratos complejos",
+        "correct": false
+      },
+      {
+        "text": "Ácidos nucleicos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Tienen una estructura de cuatro anillos de carbono.",
+    "explanation": "El estrógeno y la testosterona son hormonas esteroideas, que son un tipo de lípidos con una estructura de cuatro anillos fusionados."
+  },
+  {
+    "question": "La maltosa es un disacárido. ¿Cuál es su composición monosacárida?",
+    "options": [
+      {
+        "text": "Dos moléculas de glucosa",
+        "correct": true
+      },
+      {
+        "text": "Una molécula de glucosa y una de fructosa",
+        "correct": false
+      },
+      {
+        "text": "Una molécula de glucosa y una de galactosa",
+        "correct": false
+      },
+      {
+        "text": "Dos moléculas de fructosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es el azúcar de la malta.",
+    "explanation": "La maltosa está formada por dos unidades de glucosa unidas por un enlace glucosídico α-1,4."
+  },
+  {
+    "question": "El código genético, que determina la secuencia de aminoácidos en una proteína, está contenido en la secuencia de...?",
+    "options": [
+      {
+        "text": "Bases nitrogenadas en el ADN",
+        "correct": true
+      },
+      {
+        "text": "Aminoácidos en la proteína",
+        "correct": false
+      },
+      {
+        "text": "Monosacáridos en el carbohidrato",
+        "correct": false
+      },
+      {
+        "text": "Ácidos grasos en el lípido",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son las 'letras' de nuestro genoma.",
+    "explanation": "La secuencia de las bases nitrogenadas (A, T, C, G) en el ADN es la que codifica la información para la síntesis de proteínas."
+  },
+  {
+    "question": "¿Cuál es la macromolécula que conforma la pared celular de las plantas y proporciona su rigidez, pero no es digerible por la mayoría de los animales?",
+    "options": [
+      {
+        "text": "Celulosa",
+        "correct": true
+      },
+      {
+        "text": "Almidón",
+        "correct": false
+      },
+      {
+        "text": "Glucógeno",
+        "correct": false
+      },
+      {
+        "text": "Quitina",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la fibra dietética más común.",
+    "explanation": "La celulosa es un polisacárido estructural en las plantas, y los animales carecen de las enzimas para romper sus enlaces β-glucosídicos."
+  },
+  {
+    "question": "Las proteínas fibrosas, como el colágeno y la queratina, se caracterizan por...",
+    "options": [
+      {
+        "text": "Ser insolubles en agua y tener una función estructural",
+        "correct": true
+      },
+      {
+        "text": "Ser solubles en agua y tener una función catalítica o de transporte",
+        "correct": false
+      },
+      {
+        "text": "Ser componentes de las membranas celulares",
+        "correct": false
+      },
+      {
+        "text": "Ser polímeros de nucleótidos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en el cabello y la piel.",
+    "explanation": "Las proteínas fibrosas tienen formas alargadas, son insolubles en agua y proporcionan soporte mecánico y estructural a los tejidos."
+  },
+  {
+    "question": "¿Qué disacárido se forma por la unión de una molécula de glucosa y una de fructosa?",
+    "options": [
+      {
+        "text": "Sacarosa",
+        "correct": true
+      },
+      {
+        "text": "Lactosa",
+        "correct": false
+      },
+      {
+        "text": "Maltosa",
+        "correct": false
+      },
+      {
+        "text": "Celobiosa",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es el azúcar común de mesa.",
+    "explanation": "La sacarosa es un disacárido formado por la condensación de una molécula de glucosa y una de fructosa."
+  },
+  {
+    "question": "La replicación del ADN es el proceso por el cual se duplica la información genética. ¿Cuál de las siguientes afirmaciones es correcta sobre este proceso?",
+    "options": [
+      {
+        "text": "Ocurre en el núcleo y utiliza las dos hebras del ADN como moldes para sintetizar dos nuevas hebras complementarias",
+        "correct": true
+      },
+      {
+        "text": "Ocurre en el citoplasma y utiliza el ARN mensajero como molde para la síntesis de una proteína",
+        "correct": false
+      },
+      {
+        "text": "Ocurre en los ribosomas y se traduce la secuencia de nucleótidos a una secuencia de aminoácidos para formar la proteína",
+        "correct": false
+      },
+      {
+        "text": "Ocurre en la mitocondria y utiliza la glucosa como fuente de energía para la duplicación de los lípidos de la membrana celular",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es un proceso semiconservador.",
+    "explanation": "La replicación del ADN es semiconservadora, lo que significa que cada nueva molécula de ADN contiene una hebra original y una hebra recién sintetizada."
+  },
+  {
+    "question": "¿Cuál es la función principal de los carbohidratos complejos como el almidón y el glucógeno?",
+    "options": [
+      {
+        "text": "Almacenamiento de energía",
+        "correct": true
+      },
+      {
+        "text": "Formación de enzimas",
+        "correct": false
+      },
+      {
+        "text": "Síntesis de proteínas",
+        "correct": false
+      },
+      {
+        "text": "Componente principal de las membranas celulares",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Sirven como reserva de energía.",
+    "explanation": "El almidón en plantas y el glucógeno en animales son polisacáridos de almacenamiento de energía, que se degradan en monosacáridos cuando se necesita energía."
+  },
+  {
+    "question": "Relaciona correctamente los lípidos con su función principal:",
+    "options": [
+      {
+        "text": "A-II; B-III; C-I",
+        "correct": true
+      },
+      {
+        "text": "A-I; B-II; C-III",
+        "correct": false
+      },
+      {
+        "text": "A-II; B-I; C-III",
+        "correct": false
+      },
+      {
+        "text": "A-III; B-II; C-I",
+        "correct": false
+      },
+      {
+text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Los triglicéridos almacenan, los fosfolípidos estructuran y los esteroides regulan.",
+    "explanation": "Los triglicéridos almacenan energía; los fosfolípidos forman membranas celulares; y los esteroides, como las hormonas sexuales, tienen funciones de regulación."
+  },
+  {
+    "question": "¿Qué tipo de macromolécula contiene fósforo en su composición elemental?",
+    "options": [
+      {
+        "text": "Ácidos nucleicos y fosfolípidos",
+        "correct": true
+      },
+      {
+        "text": "Proteínas y carbohidratos",
+        "correct": false
+      },
+      {
+        "text": "Solo ácidos nucleicos",
+        "correct": false
+      },
+      {
+        "text": "Solo fosfolípidos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en el 'esqueleto' de los ácidos nucleicos y la 'cabeza' de los fosfolípidos.",
+    "explanation": "Los ácidos nucleicos tienen un grupo fosfato en cada nucleótido y los fosfolípidos tienen un grupo fosfato en su 'cabeza' polar."
+  },
+  {
+    "question": "La ribosa es un monosacárido que se encuentra en la estructura del...",
+    "options": [
+      {
+        "text": "ARN y ATP",
+        "correct": true
+      },
+      {
+        "text": "ADN y ARN",
+        "correct": false
+      },
+      {
+        "text": "Almidón y glucógeno",
+        "correct": false
+      },
+      {
+        "text": "Triglicéridos y fosfolípidos",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es una pentosa.",
+    "explanation": "La ribosa es el azúcar constituyente del ARN y del ATP (adenosín trifosfato), que es un nucleótido de alta energía."
+  },
+  {
+    "question": "¿Cuál es la función principal de la enzima digestiva amilasa?",
+    "options": [
+      {
+        "text": "Hidrolizar los enlaces glucosídicos del almidón para descomponerlo en azúcares más simples",
+        "correct": true
+      },
+      {
+        "text": "Degradar las proteínas en aminoácidos para su absorción en el intestino delgado",
+        "correct": false
+      },
+      {
+        "text": "Descomponer los lípidos en ácidos grasos y glicerol para su absorción en la célula",
+        "correct": false
+      },
+      {
+        "text": "Duplicar la información genética del ADN en el núcleo celular para su correcta replicación",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Se encuentra en la saliva.",
+    "explanation": "La amilasa es una enzima que inicia la digestión del almidón al romper los enlaces glucosídicos, liberando disacáridos y oligosacáridos."
+  },
+  {
+    "question": "La forma tridimensional de una enzima es crucial para su función. Si una enzima pierde su forma por un cambio de temperatura o pH, se dice que está...",
+    "options": [
+      {
+        "text": "Desnaturalizada",
+        "correct": true
+      },
+      {
+        "text": "Catalizada",
+        "correct": false
+      },
+      {
+        "text": "Hidrolizada",
+        "correct": false
+      },
+      {
+        "text": "Plegada",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "El calor descompone las proteínas.",
+    "explanation": "La desnaturalización es la pérdida de la estructura tridimensional de una proteína, lo que provoca la pérdida de su función biológica."
+  },
+  {
+    "question": "Los nucleótidos de ADN están unidos por enlaces fosfodiéster, formando el 'esqueleto' de la cadena. ¿Qué parte del nucleótido está involucrada en este enlace?",
+    "options": [
+      {
+        "text": "El grupo fosfato de un nucleótido se une al azúcar del siguiente",
+        "correct": true
+      },
+      {
+        "text": "La base nitrogenada de un nucleótido se une al grupo fosfato del siguiente",
+        "correct": false
+      },
+      {
+        "text": "La base nitrogenada de un nucleótido se une a la base nitrogenada del siguiente",
+        "correct": false
+      },
+      {
+        "text": "El azúcar de un nucleótido se une al grupo fosfato del siguiente, formando una unión que estabiliza la molécula",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Forman la cadena principal de azúcar-fosfato.",
+    "explanation": "El enlace fosfodiéster conecta el grupo fosfato de un nucleótido con el grupo hidroxilo 3' del azúcar del siguiente, formando la columna vertebral del ADN o ARN."
+  },
+  {
+    "question": "¿Cuál es la función principal de los triglicéridos?",
+    "options": [
+      {
+        "text": "Almacenamiento de energía a largo plazo",
+        "correct": true
+      },
+      {
+        "text": "Componente estructural de las membranas celulares",
+        "correct": false
+      },
+      {
+        "text": "Catalizadores de reacciones químicas",
+        "correct": false
+      },
+      {
+        "text": "Transporte de oxígeno en la sangre",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Son las grasas y los aceites.",
+    "explanation": "Los triglicéridos son lípidos formados por una molécula de glicerol y tres ácidos grasos, su principal función es servir como reserva de energía a largo plazo."
+  },
+  {
+    "question": "Relaciona correctamente cada macromolécula con el tipo de enlace que une sus monómeros:",
+    "options": [
+      {
+        "text": "A-II; B-I; C-III",
+        "correct": true
+      },
+      {
+        "text": "A-I; B-II; C-III",
+        "correct": false
+      },
+      {
+        "text": "A-III; B-I; C-II",
+        "correct": false
+      },
+      {
+        "text": "A-II; B-III; C-I",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en las unidades que se unen.",
+    "explanation": "Los aminoácidos se unen por enlaces peptídicos; los monosacáridos por enlaces glucosídicos; y los nucleótidos por enlaces fosfodiéster."
+  },
+  {
+    "question": "¿Cuál de las siguientes macromoléculas es un ejemplo de proteína globular?",
+    "options": [
+      {
+        "text": "Hemoglobina",
+        "correct": true
+      },
+      {
+        "text": "Colágeno",
+        "correct": false
+      },
+      {
+        "text": "Queratina",
+        "correct": false
+      },
+      {
+        "text": "Quitina",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es una proteína de forma esférica.",
+    "explanation": "La hemoglobina es una proteína globular con forma esférica, mientras que el colágeno y la queratina son proteínas fibrosas, y la quitina es un carbohidrato."
+  },
+  {
+    "question": "La estructura primaria del ADN se refiere a...",
+    "options": [
+      {
+        "text": "La secuencia de bases nitrogenadas a lo largo de una de las hebras",
+        "correct": true
+      },
+      {
+        "text": "La doble hélice formada por dos hebras de nucleótidos",
+        "correct": false
+      },
+      {
+        "text": "Los puentes de hidrógeno entre las bases nitrogenadas complementarias",
+        "correct": false
+      },
+      {
+        "text": "El plegamiento de la molécula para formar cromosomas",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Es la información lineal, como el alfabeto de un gen.",
+    "explanation": "La estructura primaria del ADN es la secuencia lineal de los nucleótidos, es decir, el orden de las bases nitrogenadas (A, T, C, G)."
+  },
+  {
+    "question": "Las moléculas que componen los aceites vegetales son principalmente triglicéridos. ¿A qué se debe que sean líquidos a temperatura ambiente?",
+    "options": [
+      {
+        "text": "A que están formados por ácidos grasos insaturados con dobles enlaces que impiden un empaquetamiento compacto",
+        "correct": true
+      },
+      {
+        "text": "A que están formados por ácidos grasos saturados con enlaces simples que permiten un empaquetamiento muy compacto",
+        "correct": false
+      },
+      {
+        "text": "A que son lípidos que contienen un grupo fosfato en su estructura lo cual disminuye su punto de fusión",
+        "correct": false
+      },
+      {
+        "text": "A que son polímeros de glucosa, que es una molécula que no puede cristalizarse a temperatura ambiente",
+        "correct": false
+      },
+      {
+        "text": "No puedo identificar la respuesta 😥",
+        "correct": false
+      }
+    ],
+    "tags": [
+      "GENERAL"
+    ],
+    "hint": "Piensa en la estructura de sus cadenas de carbono.",
+    "explanation": "Los ácidos grasos insaturados tienen dobles enlaces que crean 'codos' en la cadena, lo que evita que las moléculas se empaqueten densamente, por lo que son líquidos a temperatura ambiente."
+  }
+]
