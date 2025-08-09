@@ -1116,5 +1116,486 @@
     "tags": ["GENERAL"],
     "hint": "Piensa en la estructura de sus cadenas de carbono.",
     "explanation": "Los ácidos grasos insaturados tienen dobles enlaces que crean 'codos' en la cadena, lo que evita que las moléculas se empaqueten densamente, por lo que son líquidos a temperatura ambiente."
+  },
+  {
+    "question": "Las vitaminas se clasifican como liposolubles o hidrosolubles. ¿Cuál de las siguientes vitaminas es un ejemplo de vitamina liposoluble?",
+    "options": [
+      {"text": "Vitamina A", "correct": true},
+      {"text": "Vitamina C", "correct": false},
+      {"text": "Vitamina B₁ (Tiamina)", "correct": false},
+      {"text": "Vitamina B₃ (Niacina)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Esta vitamina está relacionada con la visión y la salud de la piel.",
+    "explanation": "Las vitaminas liposolubles (A, D, E, K) se disuelven en grasas y se almacenan en el tejido graso del cuerpo y en el hígado."
+  },
+  {
+    "question": "¿Cuál de las siguientes vitaminas está relacionada con la síntesis de colágeno y actúa como un antioxidante importante en el cuerpo humano?",
+    "options": [
+      {"text": "Vitamina C (Ácido ascórbico)", "correct": true},
+      {"text": "Vitamina E (Tocoferol)", "correct": false},
+      {"text": "Vitamina K", "correct": false},
+      {"text": "Vitamina D", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Su deficiencia causa escorbuto, una enfermedad que afecta las encías y la cicatrización de heridas.",
+    "explanation": "La vitamina C es crucial para la hidroxilación del colágeno, una proteína estructural vital. También es un poderoso antioxidante que protege las células del daño de los radicales libres."
+  },
+  {
+    "question": "Son ejemplos de minerales que cumplen una función estructural en los huesos y dientes:",
+    "options": [
+      {"text": "Calcio y fósforo", "correct": true},
+      {"text": "Sodio y potasio", "correct": false},
+      {"text": "Hierro y zinc", "correct": false},
+      {"text": "Magnesio y manganeso", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Forman cristales de hidroxiapatita que les dan dureza y rigidez.",
+    "explanation": "El calcio y el fósforo son los minerales más abundantes en el cuerpo humano y son componentes principales de la hidroxiapatita, que conforma el tejido óseo y dental."
+  },
+  {
+    "question": "El agua es una molécula polar. Esta polaridad le confiere la capacidad de formar puentes de hidrógeno, lo que a su vez le otorga una serie de propiedades únicas, como:",
+    "options": [
+      {"text": "Alto calor específico y alta tensión superficial", "correct": true},
+      {"text": "Baja cohesión y baja fuerza de adhesión", "correct": false},
+      {"text": "Baja capacidad de disolver sustancias polares", "correct": false},
+      {"text": "Una densidad mayor en su estado gaseoso que en su estado líquido", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Los puentes de hidrógeno le permiten absorber grandes cantidades de calor sin variar mucho su temperatura, y que su superficie actúe como una 'piel'.",
+    "explanation": "Los puentes de hidrógeno entre las moléculas de agua le confieren un alto calor específico, lo que ayuda a regular la temperatura, y una alta tensión superficial que permite a los insectos caminar sobre ella."
+  },
+  {
+    "question": "Relaciona correctamente la vitamina con su función principal: A) Vitamina B₁₂; B) Vitamina K; C) Vitamina D; D) Vitamina E; I) Coagulación sanguínea, II) Absorción de calcio, III) Formación de glóbulos rojos, IV) Antioxidante.",
+    "options": [
+      {"text": "A-III; B-I; C-II; D-IV", "correct": true},
+      {"text": "A-I; B-II; C-IV; D-III", "correct": false},
+      {"text": "A-IV; B-III; C-I; D-II", "correct": false},
+      {"text": "A-II; B-IV; C-III; D-I", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La deficiencia de una de estas vitaminas causa anemia perniciosa.",
+    "explanation": "La vitamina B₁₂ es clave en la formación de glóbulos rojos; la vitamina K en la coagulación sanguínea; la vitamina D en la absorción de calcio; y la vitamina E es un potente antioxidante."
+  },
+  {
+    "question": "¿Qué mineral es esencial para el transporte de oxígeno en la sangre, ya que es un componente clave de la hemoglobina?",
+    "options": [
+      {"text": "Hierro", "correct": true},
+      {"text": "Sodio", "correct": false},
+      {"text": "Potasio", "correct": false},
+      {"text": "Magnesio", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La deficiencia de este mineral causa anemia ferropénica.",
+    "explanation": "El hierro es un componente vital del grupo hemo en la hemoglobina, la proteína que transporta el oxígeno desde los pulmones a los tejidos."
+  },
+  {
+    "question": "El agua actúa como un excelente solvente para muchas sustancias. Esta propiedad se debe a:",
+    "options": [
+      {"text": "Su naturaleza polar y la formación de puentes de hidrógeno con otras moléculas", "correct": true},
+      {"text": "Su naturaleza no polar que repele otras moléculas", "correct": false},
+      {"text": "Su alta capacidad calorífica, que le permite absorber grandes cantidades de energía", "correct": false},
+      {"text": "La alta tensión superficial que le permite soportar peso", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Esta característica le permite disolver azúcares, sales y muchas otras moléculas biológicas.",
+    "explanation": "La polaridad del agua permite que los extremos positivos y negativos de sus moléculas interactúen con otras moléculas polares o iónicas, rodeándolas y disolviéndolas, formando una esfera de hidratación."
+  },
+  {
+    "question": "El metabolismo celular depende de muchas vitaminas del complejo B que actúan como coenzimas. La ________ es una coenzima derivada de la vitamina B₂, mientras que el ________ es un cofactor que se deriva de la vitamina B₃.",
+    "options": [
+      {"text": "FAD, NAD⁺", "correct": true},
+      {"text": "ATP, FADH₂", "correct": false},
+      {"text": "NAD⁺, ATP", "correct": false},
+      {"text": "FAD, Coenzima A", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Ambos transportan electrones en el metabolismo energético.",
+    "explanation": "El FAD (flavina adenina dinucleótido) se deriva de la riboflavina (vitamina B₂), y el NAD⁺ (nicotinamida adenina dinucleótido) se deriva de la niacina (vitamina B₃). Ambos son cruciales en la cadena de transporte de electrones."
+  },
+  {
+    "question": "Las sales minerales pueden encontrarse en forma disuelta. ¿Cuál de los siguientes pares de minerales son esenciales para el equilibrio de fluidos y la transmisión nerviosa?",
+    "options": [
+      {"text": "Sodio y potasio", "correct": true},
+      {"text": "Hierro y zinc", "correct": false},
+      {"text": "Calcio y magnesio", "correct": false},
+      {"text": "Cobre y selenio", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Son iones esenciales para la bomba sodio-potasio.",
+    "explanation": "El sodio y el potasio son los principales cationes extracelulares e intracelulares, respectivamente. Su gradiente electroquímico es vital para el potencial de membrana y la conducción nerviosa."
+  },
+  {
+    "question": "Las vitaminas hidrosolubles se disuelven en agua y no se almacenan en el cuerpo en grandes cantidades. ¿Cuál de las siguientes es una vitamina hidrosoluble que actúa como coenzima en la descarboxilación oxidativa?",
+    "options": [
+      {"text": "Vitamina B₁ (Tiamina)", "correct": true},
+      {"text": "Vitamina A (Retinol)", "correct": false},
+      {"text": "Vitamina D (Colecalciferol)", "correct": false},
+      {"text": "Vitamina K (Filoquinona)", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Su deficiencia causa la enfermedad de beriberi.",
+    "explanation": "La tiamina, como tiamina pirofosfato, es una coenzima clave en la descarboxilación oxidativa del piruvato y otros α-cetoácidos, procesos centrales en el metabolismo energético."
+  },
+  {
+    "question": "Una de las funciones más importantes del agua en el cuerpo es la regulación de la temperatura. Esta propiedad es posible gracias a:",
+    "options": [
+      {"text": "Su alto calor de vaporización y alto calor específico", "correct": true},
+      {"text": "Su alta densidad y baja conductividad térmica", "correct": false},
+      {"text": "Su baja capacidad calorífica y alta tensión superficial", "correct": false},
+      {"text": "Su naturaleza polar, que permite la disolución de sales y azúcares", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en el sudor y en la capacidad de los cuerpos de agua de no cambiar bruscamente de temperatura.",
+    "explanation": "El alto calor de vaporización del agua permite que el sudor enfríe el cuerpo al evaporarse, y su alto calor específico permite que el cuerpo absorba y libere calor lentamente, manteniendo la temperatura interna estable."
+  },
+  {
+    "question": "Son funciones biológicas de las vitaminas:",
+    "options": [
+      {"text": "Cofactores enzimáticos y antioxidantes", "correct": true},
+      {"text": "Componentes estructurales y de reserva energética", "correct": false},
+      {"text": "Moléculas de información genética y transporte de gases", "correct": false},
+      {"text": "Principal fuente de energía y componentes de la membrana plasmática", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se requieren en pequeñas cantidades y no son una fuente directa de energía.",
+    "explanation": "Muchas vitaminas, especialmente las del complejo B, actúan como coenzimas (cofactores enzimáticos) en diversas reacciones metabólicas. Las vitaminas C y E son conocidos antioxidantes."
+  },
+  {
+    "question": "¿Qué mineral forma parte de la coenzima FAD y también es esencial para la absorción de hierro y el metabolismo de la glucosa?",
+    "options": [
+      {"text": "Cobre", "correct": true},
+      {"text": "Zinc", "correct": false},
+      {"text": "Manganeso", "correct": false},
+      {"text": "Selenio", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Este mineral está ligado al desarrollo de la anemia.",
+    "explanation": "El cobre es un mineral traza que actúa como cofactor para varias enzimas. Es crucial para el metabolismo del hierro, la formación de glóbulos rojos, la absorción del hierro y también para la función de la coenzima FAD."
+  },
+  {
+    "question": "La capacidad del agua para disolver iones y moléculas polares se debe a la formación de una capa de hidratación o esfera de solvatación alrededor de las partículas. Esta propiedad es conocida como:",
+    "options": [
+      {"text": "Capacidad de disolución", "correct": true},
+      {"text": "Capacidad de ionización", "correct": false},
+      {"text": "Capacidad de osmosis", "correct": false},
+      {"text": "Capacidad de electrolisis", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El agua puede separar y rodear las partículas para que no se junten de nuevo.",
+    "explanation": "La polaridad del agua permite que las moléculas de agua se orienten alrededor de iones y otras moléculas polares, aislando esas partículas y previniendo que se agrupen de nuevo. Este proceso es la base de su capacidad de disolución."
+  },
+  {
+    "question": "¿Cuál de las siguientes vitaminas liposolubles es esencial para la coagulación sanguínea?",
+    "options": [
+      {"text": "Vitamina K", "correct": true},
+      {"text": "Vitamina A", "correct": false},
+      {"text": "Vitamina E", "correct": false},
+      {"text": "Vitamina D", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Se encuentra en verduras de hoja verde y su nombre está relacionado con la palabra 'koagulation' en alemán.",
+    "explanation": "La vitamina K es un cofactor esencial en la síntesis de varios factores de coagulación en el hígado, como la protrombina."
+  },
+  {
+    "question": "El ________ es el mineral más abundante en el cuerpo humano, esencial para la contracción muscular y la señalización nerviosa, mientras que el ________ es un mineral traza crucial para el funcionamiento de enzimas y el sistema inmunológico.",
+    "options": [
+      {"text": "calcio, zinc", "correct": true},
+      {"text": "sodio, hierro", "correct": false},
+      {"text": "potasio, magnesio", "correct": false},
+      {"text": "fósforo, selenio", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Uno es famoso por los lácteos, el otro se encuentra en mariscos y carnes rojas.",
+    "explanation": "El calcio es fundamental para la estructura ósea y la función muscular y nerviosa. El zinc es un cofactor para cientos de enzimas y vital para la función inmunológica."
+  },
+  {
+    "question": "Son vitaminas que actúan como coenzimas en reacciones metabólicas del ciclo de Krebs y la cadena de transporte de electrones:",
+    "options": [
+      {"text": "B₁ (tiamina), B₂ (riboflavina) y B₃ (niacina)", "correct": true},
+      {"text": "A, D y E", "correct": false},
+      {"text": "C, D y K", "correct": false},
+      {"text": "B₆, B₁₂ y ácido fólico", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Pertenecen al grupo de las vitaminas hidrosolubles y son esenciales para el metabolismo energético.",
+    "explanation": "Las vitaminas B₁, B₂ y B₃ (tiamina, riboflavina y niacina) son precursores de coenzimas como TPP, FAD y NAD⁺, que son fundamentales en el metabolismo de carbohidratos y lípidos."
+  },
+  {
+    "question": "La alta tensión superficial del agua se debe a la cohesión de sus moléculas, que a su vez se debe a:",
+    "options": [
+      {"text": "La formación de puentes de hidrógeno entre las moléculas de agua", "correct": true},
+      {"text": "La atracción gravitacional entre las moléculas de agua", "correct": false},
+      {"text": "La repulsión electrostática entre sus polos", "correct": false},
+      {"text": "El movimiento browniano de las moléculas de agua", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Esta fuerza permite que un insecto pueda flotar o 'caminar' sobre el agua.",
+    "explanation": "Los puentes de hidrógeno son los responsables de la fuerte cohesión entre las moléculas de agua en la superficie, creando una 'piel' elástica que da lugar a la alta tensión superficial."
+  },
+  {
+    "question": "La vitamina B₁₂ (cobalamina) es única entre las vitaminas hidrosolubles porque contiene un mineral en su estructura. ¿Cuál es este mineral?",
+    "options": [
+      {"text": "Cobalto", "correct": true},
+      {"text": "Cobre", "correct": false},
+      {"text": "Hierro", "correct": false},
+      {"text": "Magnesio", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El nombre de la vitamina te da una pista.",
+    "explanation": "La vitamina B₁₂, también conocida como cobalamina, tiene un átomo de cobalto en el centro de su anillo de corrina, lo cual es esencial para su función biológica."
+  },
+  {
+    "question": "¿Qué mineral es un componente clave de la hormona tiroidea tiroxina, que es fundamental para el metabolismo basal?",
+    "options": [
+      {"text": "Yodo", "correct": true},
+      {"text": "Flúor", "correct": false},
+      {"text": "Selenio", "correct": false},
+      {"text": "Cromo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La deficiencia de este mineral se relaciona con el bocio.",
+    "explanation": "El yodo es esencial para la síntesis de las hormonas tiroideas (tiroxina y triyodotironina), que regulan el metabolismo, el crecimiento y el desarrollo del sistema nervioso."
+  },
+  {
+    "question": "Son características de las vitaminas liposolubles:",
+    "options": [
+      {"text": "Se disuelven en grasas, se almacenan en el hígado y tejido adiposo y su exceso puede ser tóxico", "correct": true},
+      {"text": "Se disuelven en agua, no se almacenan en el cuerpo y se excretan en la orina", "correct": false},
+      {"text": "Actúan como coenzimas en el metabolismo de carbohidratos, proteínas y lípidos, y se encuentran en vegetales de hoja verde", "correct": false},
+      {"text": "Son polímeros de aminoácidos, esenciales para la formación de tejidos y la defensa contra patógenos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Piensa en las vitaminas A, D, E y K.",
+    "explanation": "Debido a su naturaleza lipídica, estas vitaminas se acumulan en el cuerpo. Por ello, una ingesta excesiva (hipervitaminosis) puede tener efectos tóxicos."
+  },
+  {
+    "question": "Una de las funciones más importantes del agua es actuar como medio de transporte en el cuerpo. Esto se debe a su capacidad de:",
+    "options": [
+      {"text": "Ser un solvente universal y fluir a través de los vasos sanguíneos y linfáticos", "correct": true},
+      {"text": "Generar puentes de hidrógeno para formar un medio sólido de transporte", "correct": false},
+      {"text": "Absorber grandes cantidades de energía en forma de calor para disipar el calor", "correct": false},
+      {"text": "Ser capaz de ionizar sustancias, lo que ayuda a su transporte", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La sangre es el principal medio de transporte.",
+    "explanation": "El agua en la sangre disuelve y transporta nutrientes (glucosa, aminoácidos), hormonas, gases (CO₂) y productos de desecho (urea) a lo largo del cuerpo."
+  },
+  {
+    "question": "¿Qué mineral es un componente crucial de la coenzima B₁₂ y se encuentra en el centro de un anillo de corrina, siendo esencial para la formación de glóbulos rojos?",
+    "options": [
+      {"text": "Cobalto", "correct": true},
+      {"text": "Zinc", "correct": false},
+      {"text": "Manganeso", "correct": false},
+      {"text": "Cromo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Recuerda el nombre químico de la vitamina B₁₂.",
+    "explanation": "El cobalto es el átomo central del anillo de corrina en la vitamina B₁₂ o cobalamina, y es esencial para su función en la maduración de los glóbulos rojos."
+  },
+  {
+    "question": "El ácido fólico (vitamina B₉) y la vitamina B₁₂ son esenciales para la síntesis de ácidos nucleicos. La deficiencia de ambos puede llevar a:",
+    "options": [
+      {"text": "Anemia megaloblástica", "correct": true},
+      {"text": "Anemia ferropénica", "correct": false},
+      {"text": "Escorbuto", "correct": false},
+      {"text": "Beriberi", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Esta anemia se caracteriza por la presencia de glóbulos rojos grandes e inmaduros.",
+    "explanation": "La vitamina B₉ y la vitamina B₁₂ son cruciales para la síntesis de purinas y pirimidinas, componentes del ADN. Su deficiencia interrumpe la división celular, especialmente en la médula ósea, causando anemia megaloblástica."
+  },
+  {
+    "question": "¿Qué mineral es un componente esencial de la enzima glutatión peroxidasa, la cual protege a las células del daño oxidativo?",
+    "options": [
+      {"text": "Selenio", "correct": true},
+      {"text": "Yodo", "correct": false},
+      {"text": "Flúor", "correct": false},
+      {"text": "Cobre", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Este mineral actúa en conjunto con la vitamina E en la defensa antioxidante.",
+    "explanation": "El selenio es un componente de la glutatión peroxidasa, una enzima antioxidante que protege los lípidos de las membranas celulares del daño por especies reactivas de oxígeno."
+  },
+  {
+    "question": "La vitamina D, producida en la piel por la exposición a la luz solar, es esencial para la absorción de ________ en el intestino, promoviendo la salud de los huesos.",
+    "options": [
+      {"text": "Calcio y fósforo", "correct": true},
+      {"text": "Hierro y zinc", "correct": false},
+      {"text": "Sodio y potasio", "correct": false},
+      {"text": "Magnesio y manganeso", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La deficiencia de esta vitamina causa raquitismo en niños y osteomalacia en adultos.",
+    "explanation": "La forma activa de la vitamina D, el calcitriol, regula la homeostasis del calcio y el fósforo, aumentando su absorción intestinal y su reabsorción en los riñones."
+  },
+  {
+    "question": "El agua participa en muchas reacciones bioquímicas. Un ejemplo es el proceso de ________, donde el agua se utiliza para romper enlaces químicos, como en la digestión de carbohidratos, proteínas y lípidos.",
+    "options": [
+      {"text": "hidrólisis", "correct": true},
+      {"text": "condensación", "correct": false},
+      {"text": "oxidación", "correct": false},
+      {"text": "fosforilación", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "La palabra 'hidro' se refiere al agua y 'lisis' a la ruptura.",
+    "explanation": "En la hidrólisis, se añade una molécula de agua para romper un enlace covalente, como el enlace glucosídico en los carbohidratos o el enlace peptídico en las proteínas."
+  },
+  {
+    "question": "Son minerales esenciales que se encuentran en el centro de las moléculas de clorofila y hemoglobina respectivamente:",
+    "options": [
+      {"text": "Magnesio, hierro", "correct": true},
+      {"text": "Zinc, cobre", "correct": false},
+      {"text": "Manganeso, selenio", "correct": false},
+      {"text": "Calcio, fósforo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Uno es verde, el otro es rojo.",
+    "explanation": "El magnesio es el átomo central en la clorofila, esencial para la fotosíntesis. El hierro es el átomo central en el grupo hemo de la hemoglobina, esencial para el transporte de oxígeno."
+  },
+  {
+    "question": "La vitamina A (retinol) es esencial para la visión. En la retina, el retinol se convierte en ________, que se une a la proteína opsina para formar la rodopsina, el pigmento visual.",
+    "options": [
+      {"text": "11-cis-retinal", "correct": true},
+      {"text": "Tocoferol", "correct": false},
+      {"text": "Ácido ascórbico", "correct": false},
+      {"text": "Colecalciferol", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es un derivado de la vitamina A que experimenta un cambio de forma al absorber la luz.",
+    "explanation": "El retinol se oxida a retinal y se isomeriza a 11-cis-retinal, que se une a la opsina. Al absorber un fotón de luz, el 11-cis-retinal se convierte en trans-retinal, desencadenando una cascada de señales nerviosas."
+  },
+  {
+    "question": "El agua en el cuerpo humano no solo transporta sustancias, sino que también protege y amortigua estructuras. Un ejemplo de esto se observa en:",
+    "options": [
+      {"text": "El líquido cefalorraquídeo que amortigua el cerebro", "correct": true},
+      {"text": "La sangre que transporta el dióxido de carbono desde los pulmones", "correct": false},
+      {"text": "El sudor que enfría el cuerpo a través de la evaporación", "correct": false},
+      {"text": "La saliva que inicia la digestión de carbohidratos", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Este fluido se encuentra alrededor del sistema nervioso central.",
+    "explanation": "El líquido cefalorraquídeo, que es principalmente agua, actúa como un cojín hidrostático, protegiendo al cerebro y la médula espinal de impactos."
+  },
+  {
+    "question": "Son minerales traza que actúan como cofactores en diversas enzimas antioxidantes:",
+    "options": [
+      {"text": "Selenio y zinc", "correct": true},
+      {"text": "Calcio y fósforo", "correct": false},
+      {"text": "Sodio y potasio", "correct": false},
+      {"text": "Cromo y manganeso", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Uno es componente de la glutatión peroxidasa y el otro de la superóxido dismutasa.",
+    "explanation": "El selenio es parte de la glutatión peroxidasa, y el zinc es un componente de la superóxido dismutasa de cobre-zinc. Ambas enzimas son cruciales en la defensa antioxidante celular."
+  },
+  {
+    "question": "La vitamina B₁ (Tiamina) es un cofactor esencial en el metabolismo de los carbohidratos. Su forma activa es el ________, el cual participa en la descarboxilación del piruvato en el ciclo de Krebs.",
+    "options": [
+      {"text": "Tiamina pirofosfato", "correct": true},
+      {"text": "Tiamina trifosfato", "correct": false},
+      {"text": "Coenzima A", "correct": false},
+      {"text": "Fosfato de piridoxal", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Esta forma activada de la vitamina B₁ es la que actúa directamente como coenzima.",
+    "explanation": "La tiamina pirofosfato (TPP) es la coenzima activa derivada de la tiamina, indispensable para la función de enzimas como la piruvato deshidrogenasa, que une la glucólisis con el ciclo de Krebs."
+  },
+  {
+    "question": "La molécula de agua tiene una geometría angular debido a los pares de electrones no enlazantes del oxígeno. El ángulo de enlace H-O-H es de aproximadamente:",
+    "options": [
+      {"text": "104.5°", "correct": true},
+      {"text": "180°", "correct": false},
+      {"text": "109.5°", "correct": false},
+      {"text": "120°", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Este ángulo es ligeramente menor que el de un tetraedro perfecto debido a la repulsión de los electrones libres.",
+    "explanation": "La geometría de la molécula de agua es angular, con un ángulo de enlace de 104.5°. Los dos pares de electrones no enlazantes en el átomo de oxígeno ejercen una mayor repulsión que los dos pares de electrones enlazados, empujando los átomos de hidrógeno más cerca."
+  },
+  {
+    "question": "Las vitaminas del complejo B actúan como coenzimas. La ________ participa en el metabolismo de los aminoácidos y la síntesis de neurotransmisores, y es derivada de la vitamina B₆ (piridoxina).",
+    "options": [
+      {"text": "fosfato de piridoxal", "correct": true},
+      {"text": "tiamina pirofosfato", "correct": false},
+      {"text": "flavin mononucleótido", "correct": false},
+      {"text": "nicotinamida adenina dinucleótido", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Esta coenzima es clave en las reacciones de transaminación.",
+    "explanation": "El fosfato de piridoxal (PLP) es la forma activa de la vitamina B₆. Es una coenzima vital en más de 140 reacciones, incluyendo el metabolismo de los aminoácidos y la síntesis de neurotransmisores como la serotonina."
+  },
+  {
+    "question": "La formación de enlaces de hidrógeno entre moléculas de agua es un factor clave en la propiedad conocida como ________. Esto permite que el agua ascienda por los capilares de las plantas, por ejemplo.",
+    "options": [
+      {"text": "capilaridad", "correct": true},
+      {"text": "osmosis", "correct": false},
+      {"text": "difusión", "correct": false},
+      {"text": "conducción", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Es la combinación de cohesión y adhesión del agua.",
+    "explanation": "La capilaridad es la propiedad que permite al agua subir por tubos estrechos, como los vasos del xilema en las plantas. Se debe a la cohesión (atracción entre moléculas de agua) y la adhesión (atracción entre moléculas de agua y las paredes del tubo)."
+  },
+  {
+    "question": "La deficiencia del mineral ________ puede causar anemia y retraso en el crecimiento, ya que es un componente de la hemoglobina y de las enzimas del sistema nervioso.",
+    "options": [
+      {"text": "Hierro", "correct": true},
+      {"text": "Zinc", "correct": false},
+      {"text": "Magnesio", "correct": false},
+      {"text": "Yodo", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Este mineral se encuentra en la carne roja y en los vegetales de hoja verde.",
+    "explanation": "El hierro es un mineral esencial para la síntesis de hemoglobina, que transporta el oxígeno en la sangre. Su deficiencia es la causa más común de anemia nutricional en el mundo."
+  },
+  {
+    "question": "La vitamina E (Tocoferol) actúa como el principal antioxidante liposoluble en el cuerpo humano. Su función principal es:",
+    "options": [
+      {"text": "Proteger las membranas celulares del daño de los radicales libres", "correct": true},
+      {"text": "Promover la coagulación sanguínea y la síntesis de factores de coagulación", "correct": false},
+      {"text": "Ser precursora del pigmento visual rodopsina y de hormonas esteroides", "correct": false},
+      {"text": "Facilitar la absorción de calcio en el intestino delgado para la salud ósea", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Su acción se centra en proteger los lípidos de la peroxidación.",
+    "explanation": "La vitamina E protege las membranas celulares ricas en lípidos (como las de los glóbulos rojos) al neutralizar los radicales libres que podrían causar daño oxidativo a los ácidos grasos insaturados."
   }
 ]
